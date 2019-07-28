@@ -9,7 +9,7 @@ import com.woniu.service.IDeptService;
 public class DeptAction {
 	@Autowired
 	private IDeptService service;
-	public String save() {
+	public String save() { 
 		System.out.println("++++++++++");
 		return null;
 	}
